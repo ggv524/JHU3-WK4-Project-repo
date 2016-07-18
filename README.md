@@ -10,8 +10,11 @@ This repo contains the following script and files:
 
 1. run_analysis.R - This is an R script that processes the the input data
 2. CodeBook.md - Documentation which describes the variables, data, and all transformations that were applied to the data
-3. TidyData.txt - The output from run_analysis.R.  
-4. This README.md file
+3. This README.md file
+
+Submitted separately on the Coursera site:
+
+1. TidyData.txt - The output from run_analysis.R.
 
 
 ###Reading the TidyData.txt file:
